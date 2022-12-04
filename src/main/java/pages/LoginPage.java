@@ -16,6 +16,7 @@ public class LoginPage {
 	@FindBy (xpath ="//button[text()=' Login ']")
 	private WebElement button;
 	
+//New Changes
 	
 	public LoginPage(WebDriver driver) {
 		
